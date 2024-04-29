@@ -15,5 +15,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: "/ecommerce-react.js/",
+  base: "/Front-of-project/",
 });
